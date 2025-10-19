@@ -1,3 +1,22 @@
-- Added AimBot
-- Reworked Architecture
-- Fixed TriggerBot
+Alpha 0.1 functional:
+- BunnyHop
+- ESP Boxes
+
+Update 0.2:
++ Added Aimbot:
+  - FOV scale
+  - FOV display
+  - Smooth scale
+  - Binding
++ Expanded ESP functionality:
+  - Added Box Colors
+  - Added Lines to Enemy
+  - Colors for Lines
+  - Health Bar
+  - Health Bar Color
++ Misc:
+  - Added TriggerBot
++ Added Config System:
+  - Save configs
+  - Load configs
+  - Delete configs
